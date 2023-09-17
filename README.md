@@ -1,0 +1,2 @@
+- 👋I'm Daniel Lomax, and I'm interested in instrumentation, control systems but I alsoaam very passsionate about electronics... Well, it's hard to say really because I want to try my hand at a number of things, FPGAs, PLC
+- single board computers. I would love to learn Linux or bash but I'd also love industral control or power electronics 
